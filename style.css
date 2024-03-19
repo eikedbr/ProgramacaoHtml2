@@ -1,0 +1,16 @@
+header {
+    border-style: groove;
+    border-color: darkblue;
+    padding: 100px;
+    text-align: center;
+    color: white;
+    background-color: darkblue;
+    font-family: Arial, Helvetica, sans-serif;
+
+}
+nav {
+    display: flex;
+    justify-content: space-around;
+    padding: 10px;
+    
+}
